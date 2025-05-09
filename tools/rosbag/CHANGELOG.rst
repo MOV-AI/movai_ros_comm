@@ -2,8 +2,8 @@
 Changelog for package rosbag
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.17.3 (2025-05-09)
+-------------------
 * Update header for Boost 1.83 (`#2388 <https://github.com/ros/ros_comm/pull/2388>`_)
 * Contributors: Jochen Sprickerhof
 
