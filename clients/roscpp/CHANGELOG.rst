@@ -2,6 +2,9 @@
 Changelog for package roscpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.17.3 (2025-05-09)
 -------------------
 * adding boost/bind/bind.hpp includes to files missing them (`#2388 <https://github.com/ros/ros_comm/pull/2388>`_)
