@@ -1,0 +1,33 @@
+- [Incident_Id_XXX](Incident_Id_XXX_JIRA_URL) / [RnD_Id_XXX](RnD_Id_XXX_JIRA_URL): Jira Ticket Title
+  - Packages updated:
+    - movai_package_foo (old_version -> new_version):
+      - new_version_1:
+        - <description of what changed, this is a free section, place here the info you see fit>
+      - new_version_2:
+        - <description of what changed, this is a free section, place here the info you see fit>
+  - Limitations:
+    - <limitation 1>
+    - <delete limitation section if not exists>
+  - Update steps required:
+    - <step 1>
+    - <delete update section if not exists>
+  - Notes:
+    - <behaviour changes or other information>
+    - <delete notes section if not exists>
+
+- [RnD_Id_XXX](RnD_Id_XXX_JIRA_URL): Jira Ticket Title
+  - Packages updated:
+    - movai_package_foo (old_version -> new_version):
+      - new_version_1:
+        - <description of what changed, this is a free section, place here the info you see fit>
+      - new_version_2:
+        - <description of what changed, this is a free section, place here the info you see fit>
+  - Limitations:
+    - <limitation 1>
+    - <delete limitation section if not exists>
+  - Update steps required:
+    - <step 1>
+    - <delete update section if not exists>
+  - Notes:
+    - <behavior changes or other information>
+    - <delete notes section if not exists>
