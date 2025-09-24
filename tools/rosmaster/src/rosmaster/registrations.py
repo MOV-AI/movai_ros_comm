@@ -72,8 +72,7 @@ class NodeRef(object):
         @return: True if node has no active registrations
         """
         return sum((len(x) for x in
-                    [self.param_subscriptions, 
-                     self.topic_subscriptions,
+                    [self.topic_subscriptions,
                      self.topic_publications,
                      self.services,])) == 0
     
